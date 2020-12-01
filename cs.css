@@ -1,6 +1,7 @@
 h1
 {
   color: blue;
+  border: bottom 1px solid red;
 }
 img
 {
