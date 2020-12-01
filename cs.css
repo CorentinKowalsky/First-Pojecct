@@ -8,7 +8,7 @@ div
 {
   margin-left: auto;
     margin-right: auto;
-    width: 6em 
+    width: 6em; 
 }
 body
 {
@@ -24,5 +24,10 @@ p
 }
 h2
 {
-	text-align: center
+	text-align: center;
+}
+p
+{
+	color: white
+	text-align: center;
 }
