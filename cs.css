@@ -4,9 +4,9 @@ h1
 }
 section
 {
-  border-line: 1px solid black
+  border: 1px solid blue
 }
 img
 {
-  border: 1px solid black
+  border: 1px solid blue
 }
