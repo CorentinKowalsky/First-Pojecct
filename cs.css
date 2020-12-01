@@ -1,0 +1,14 @@
+h1
+{
+  color: blue
+  border-bottom: 2px solid red;
+}
+img
+{
+	border: : 2px solid red
+}
+body
+{
+	background-image: back.jpg
+	background-repeat: no-repeat; 
+}
