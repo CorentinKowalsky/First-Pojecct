@@ -1,8 +1,12 @@
 h1
 {
-  color: blue
+  color: blue;
 }
 img
 {
-  border: 1px solid red
+  border: 1px solid red;
+}
+body
+{
+  background: blue;
 }
