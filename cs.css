@@ -1,0 +1,27 @@
+h1
+{
+  color: blue;
+    border: 2px solid black;
+  text-align: center;
+}
+img
+{
+	  width: 300px;
+  height: 300px;
+  border: 1px red solid; 
+  text-align: center;
+}
+body
+{
+	background-image: First-Projecct/back.jpg
+	background-repeat: no-repeat; 
+}
+p
+{
+	text-align: center;
+	border-bottom: 2px solid red;
+}
+block
+{
+	border: 2px solid black;
+}
