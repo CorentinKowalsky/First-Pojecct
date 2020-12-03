@@ -36,4 +36,5 @@ body
 {
 	border: 2px solid black;
 	text-align: left;
+	border-width: 50%;
 }
