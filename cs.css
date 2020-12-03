@@ -10,6 +10,14 @@ div
     margin-right: auto;
     width: 6em; 
 }
+h2
+{
+	text-align: center;
+}
+.text
+{
+	text-align: center;
+}
 body
 {
 	background-image: url(ce_.jpg); 
