@@ -4,11 +4,9 @@ h1
     border: 2px solid grey;
   text-align: center;
 }
-div
+.artistes
 {
-  margin-left: auto;
-    margin-right: auto;
-    width: 6em; 
+	margin-left: 32px
 }
 body
 {
