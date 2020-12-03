@@ -36,5 +36,9 @@ body
 {
 	border: 2px solid black;
 	text-align: left;
-	border-width: 50%;
+	border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;
+}
 }
